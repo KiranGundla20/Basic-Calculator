@@ -1,2 +1,2 @@
 # Basic-Calculator
-This is Basic Calculator Project for Beginner level using HTML, CSS & JavaScript
+This is a Basic Calculator Project at Beginner's level using HTML, CSS & JavaScript
